@@ -1,2 +1,8 @@
-# new-taipei-rent-calculator
-新北市租金評定工具 - 快速計算建議租金
+# taipei-rent-calculator
+
+## 新北市社宅租金評定工具
+
+## 作者
+
+[星鴻 VeGa](https://github.com/vegakang66)
+
